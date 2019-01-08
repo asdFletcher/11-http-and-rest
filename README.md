@@ -1,15 +1,15 @@
-![CF](http://i.imgur.com/7v5ASc8.png) LAB
+![CF](http://i.imgur.com/7v5ASc8.png) LAB 11
 =================================================
 
-## Project Name
+## HTTP and REST
 
-### Author: Student/Group Name
+### Author: Fletcher LaRue
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
+* [repo](https://github.com/asdFletcher/11-http-and-rest)
+<!-- * [travis](http://xyz.com) -->
+<!-- * [back-end](http://xyz.com)
+* [front-end](http://xyz.com) -->
 
 ### Modules
 #### `modulename.js`
@@ -40,3 +40,8 @@ Usage Notes or examples
 
 #### UML
 Link to an image of the UML for your application and response to events
+
+npm i:
+express
+superagent
+ejs
